@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Usama",
+      "lastName": "Mehmood",
+      "email": "usama@gmail.com",
+      "mobile": "03152845322",
+      "fees": "8000"
+    },
+    {
+      "id": 3,
+      "firstName": "Daniyal",
+      "lastName": "Anjum",
+      "email": "dani@gmail.com",
+      "mobile": "03338098622",
+      "fees": "6000"
+    },
+    {
+      "id": 5,
+      "firstName": "Ahsan",
+      "lastName": "tommy",
+      "email": "tommy@gmail.com",
+      "mobile": "03327372839",
+      "fees": "9000"
+    },
+    {
+      "id": 6,
+      "firstName": "Hamza",
+      "lastName": "JG",
+      "email": "hamza@gmai.com",
+      "mobile": "03360850793",
+      "fees": "8000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
